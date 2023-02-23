@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Troy University</string>
+    <string name="scheduling_app">Troy University</string>
+    <string name="enter">ENTER</string>
+    <string name="course_instructor">Course Instructor</string>
+    <string name="CourseList">Course List</string>
+    <string name="TermList">Term List</string>
+    <string name="AssessmentList">Assessment List</string>
+<!--    <string name="todo">TODO</string>-->
+    <string name="ItemDetailHostActivity">Item Detail Host Activity</string>
+    <string name="TitleITemList">Items</string>
+    <string name="TitleItemDetail">Item Detail</string>
+    <string name="TitleTermDetailActivity">MainActivity</string>
+    <string name="TitleHome">Home</string>
+    <string name="DashboardTitle">Dashboard</string>
+    <string name="TitleNotification">Notifications</string>
+    <string name="save">Save</string>
+    <string name="term_end_date">Term End Date</string>
+    <string name="TermStartDate">Term Start Date</string>
+    <string name="TermTitle">Term Title</string>
+    <string name="CourseTitle">Course Title</string>
+    <string name="start_date">Start Date</string>
+    <string name="EndDate">End Date</string>
+    <string name="CurrentStatus">Enter Status of Course</string>
+    <string name="InstructorName">Instructor Name</string>
+    <string name="Elon">Elon Musk</string>
+    <string name="InstructorEmail">Instructor Email</string>
+    <string name="elonEmail">elon@TroyU.edu</string>
+    <string name="PhoneNumber">404–444-4444</string>
+    <string name="notification">Notification</string>
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
+    <string name="refresh">Refresh</string>
+    <string name="type">Type</string>
+    <string name="title">Title</string>
+    <string name="MMddYY">MM/DD/YY</string>
+
+
+    <string name="channel_name">channelName</string>
+    <string name="channel_description">channel description</string>
+    <string name="notes">Notes</string>
+    <string name="SelectATermOrClickAdd">Select a Term Below or Click the add button to create a New Term</string>
+    <string name="NotifyAssesmentStart">Assessment Start Notification</string>
+    <string name="NotifyAssesmentEnd">Assessment End Notification</string>
+
+</resources>
